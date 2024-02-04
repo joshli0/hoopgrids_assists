@@ -1,4 +1,4 @@
-3# **Hoopgrids Assists**
+# **Hoopgrids Assists**
 
 ## **Overview**
 
